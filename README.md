@@ -10,6 +10,10 @@ A critical vulnerability affecting Next.js applications using middleware that al
 
 This scanner efficiently detects vulnerable Next.js applications and provides exploitation guidance.
 
+<p align="center">
+  <img src="https://github.com/pentestfunctions/nextjs-middleware/blob/main/images/middleware.gif?raw=true">
+</p>
+
 ## 🌟 Features
 
 - 🔍 Automatically detects Next.js applications and version hints
