@@ -156,5 +156,11 @@ Create a Firewall Rule to block requests containing the `x-middleware-subrequest
 
 This tool is intended for security professionals to assess their own systems or systems they have permission to test. Do not use against systems without explicit permission. The author is not responsible for any misuse.
 
+## Extras...
+1. Extra folder with the code I used - can be configured with 
+`npx create-next-app@15.1.7 nextjs-test` 
+
+- Then copy those files to their appropriate locations and run `npm run dev`
+
 ---
 Created with ❤️ by [pentestfunctions](https://github.com/pentestfunctions)
